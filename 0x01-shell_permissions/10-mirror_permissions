@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -- r ef er en ce *olleh hello
+chmod --reference olleh hello
