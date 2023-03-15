@@ -1,3 +1,3 @@
-[main 6d0ad99] The path to success is to take massive, determined action
- 2 files changed, 4 insertions(+), 2 deletions(-)
- create mode 100755 0x03-shell_variables_expansions/2-path
+[main 196d3cb] If the path be beautiful, let us not ask where it leads
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+ create mode 100755 0x03-shell_variables_expansions/3-paths
