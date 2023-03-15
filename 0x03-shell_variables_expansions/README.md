@@ -1,3 +1,10 @@
-[main 196d3cb] If the path be beautiful, let us not ask where it leads
- 2 files changed, 5 insertions(+), 2 deletions(-)
- create mode 100755 0x03-shell_variables_expansions/3-paths
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
